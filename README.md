@@ -1,4 +1,4 @@
-# APPLICATION
+# APPLICATION FOR MELODY MUSIC INSTITUTE
 You have to do this with Visual Studio 2012 and SQL Server Management Studio 2012.
 ![Capture](https://user-images.githubusercontent.com/88277850/132277156-4ff3b9a2-0165-40b9-ac44-40437de51129.PNG)
 ![(10) Capture](https://user-images.githubusercontent.com/88277850/132277173-3cef3ace-aac3-493c-84b5-bb4ce02c3f14.PNG)
